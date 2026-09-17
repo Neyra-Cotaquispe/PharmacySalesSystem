@@ -19,7 +19,9 @@ Un sistema de escritorio para la gestión de ventas, control de inventario y fac
 1. Ve a la sección de [Releases / Lanzamientos](https://github.com/Neyra-Cotaquispe/PharmacySalesSystem/releases).
 2. Descarga el archivo `PharmacySalesSystem-v1.0.zip`.
 3. Extrae el contenido en tu PC y ejecuta el archivo **`PharmacySalesSystem.exe`**.
-
+> ⚠️ **Nota al ejecutar en Windows:**
+> Al abrir por primera vez el ejecutable `PharmacySalesSystem.exe`, es posible que Windows SmartScreen muestre una alerta de seguridad por ser un ejecutable no firmado digitalmente. 
+> Para abrirlo: haz clic en **"Más información"** y luego en **"Ejecutar de todos modos"**.
 ---
 
 ### Opción 2: Abrir código fuente (Para desarrolladores)
