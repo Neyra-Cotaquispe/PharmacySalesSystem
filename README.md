@@ -13,7 +13,16 @@ Un sistema de escritorio para la gestión de ventas, control de inventario y fac
 * **Interfaz:** Windows Forms (.NET Framework)
 * **IDE:** Visual Studio
 
-## 📦 Cómo ejecutar el proyecto
-1. Clona este repositorio en tu computadora:
-2. Abre la carpeta del proyecto y ejecuta el archivo `PharmacySalesSystem.csproj` en **Visual Studio**.
-3. Presiona `F5` o el botón **Iniciar** para ejecutar la aplicación.
+## 📦 Cómo ejecutar la aplicación
+
+### Opción 1: Descarga directa (Para usuarios / Ejecutable)
+1. Ve a la sección de [Releases / Lanzamientos](https://github.com/Neyra-Cotaquispe/PharmacySalesSystem/releases).
+2. Descarga el archivo `PharmacySalesSystem-v1.0.zip`.
+3. Extrae el contenido en tu PC y ejecuta el archivo **`PharmacySalesSystem.exe`**.
+
+---
+
+### Opción 2: Abrir código fuente (Para desarrolladores)
+1. Clona este repositorio:
+   ```bash
+   git clone [https://github.com/Neyra-Cotaquispe/PharmacySalesSystem.git](https://github.com/Neyra-Cotaquispe/PharmacySalesSystem.git)
